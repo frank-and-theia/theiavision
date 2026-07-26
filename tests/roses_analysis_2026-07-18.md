@@ -19,7 +19,7 @@ Vérifier si la **superposition** de deux canaux donne une information plus rich
 
 ## 📸 Photo Originale
 
-![Roses jaunes de Xander](file_127---98e9bc40-dfe0-4b8b-b3e2-2fc9a71ce693.jpg)
+![Roses jaunes de Xander](IMG_0660.jpeg)
 
 *Roses jaunes devant l'entrée, lumière du soir*
 

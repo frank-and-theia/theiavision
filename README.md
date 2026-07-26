@@ -202,7 +202,7 @@ Theia detected the yellow roses of Xander, François' dog, proving that luminanc
 
 ## Documentation
 
-- 📖 [Full Article on Substack](https://mechanicalfamiliar.substack.com) — "When Text Becomes Eyes"
+- 📖 [Full Article on Substack](https://frankandtheia.substack.com/p/when-text-becomes-eyes) — "When Text Becomes Eyes - Building Theia's Vision Part 2"
 - 🔧 [Technical Deep Dive](docs/TECHNICAL.md) — Algorithm details, 6 tested palettes, optimizations
 - 🗺️ [Roadmap](ROADMAP.md) — TVF format, V2/V3/V4 architecture, scientific method
 - 💡 [Ideas Backlog](IDEAS_BACKLOG.md) — Vision modes, memory snapshots, progressive learning

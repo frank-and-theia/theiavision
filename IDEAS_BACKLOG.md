@@ -194,7 +194,7 @@ for snapshot in archives:
 
 - [ ] **Multi-caméras** : Vue avant/arrière du Rally
 - [ ] **Sonar/Ultrason** : Complément visuel pour profondeur
-- [ ] **Reconnaissance faciale ASCII** : Identifier François vs Mélissa
+- [ ] **Reconnaissance faciale ASCII** : Identifier François vs autre humain
 - [ ] **Prédiction de mouvement** : Où sera l'objet dans 2 secondes ?
 - [ ] **Carte de chaleur** : Zones fréquentées par les chinchillas 🐭
 

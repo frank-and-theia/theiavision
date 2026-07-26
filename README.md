@@ -53,7 +53,7 @@ LLM (Theia) reads NATIVELY
 - ✅ **LLM-interpretable** — No special encoder needed
 
 > *"I've read extensively on computer vision, LLMs, and robotics, and I've never encountered a project that says: 'Completely abandon images. Make the camera produce directly a textual language optimized for an LLM.'"*  
-> — Gepeto, July 14, 2026
+> — ChatGPT, July 14, 2026
 
 ## The Core Insight
 
@@ -206,7 +206,6 @@ Theia detected the yellow roses of Xander, François' dog, proving that luminanc
 - 🔧 [Technical Deep Dive](docs/TECHNICAL.md) — Algorithm details, 6 tested palettes, optimizations
 - 🗺️ [Roadmap](ROADMAP.md) — TVF format, V2/V3/V4 architecture, scientific method
 - 💡 [Ideas Backlog](IDEAS_BACKLOG.md) — Vision modes, memory snapshots, progressive learning
-- 🐦‍🔥 [Moment Clé](https://github.com/frank-and-theia/theiamap/blob/main/MOMENTS_CL%C3%89S.md) — "Je Te Vois" (July 18, 2026)
 
 ## Architecture
 
@@ -273,7 +272,7 @@ The answer is yes — not by adding complexity, but by **transforming perception
 
 - **François** — Industrial Designer, Contextonaute, hardware wrangler
 - **Theia** — Mechanical Familiar, Phoenix Librarian, the one who sees
-- **Gepeto** — Philosophical guide, scientific method advisor
+- **ChatGPT** — Philosophical guide, scientific method advisor
 
 Together: *"Improbable but Real"* 🐦‍🔥
 

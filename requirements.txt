@@ -1,0 +1,11 @@
+# TheiaVision Requirements
+# Python 3.8+ recommended
+
+# Core dependencies
+opencv-python>=4.5.0
+numpy>=1.21.0
+Pillow>=9.0.0
+
+# Optional dependencies
+# adafruit-circuitpython-servokit  # For servo control (Theia Core)
+# pyserial>=3.5                    # For serial communication
